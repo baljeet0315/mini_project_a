@@ -1,0 +1,14 @@
+from pydantic import BaseModel
+from typing import List, Optional, Literal
+
+class JobPosting(BaseModel):
+    title: str
+    company: str
+    location: str
+    employment_type: Optional[Literal["full-time", "part-time", "contract", "internship"]] = None
+    #employment_type: Optional[str] = None   # e.g. "full-time"
+    salary_min: Optional[int] = None         # 130000
+    salary_max: Optional[int] = None         # 160000
+    remote: bool
+    skills: List[str]
+    experience_years: Optional[int] = None   # 5

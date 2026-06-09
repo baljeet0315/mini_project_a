@@ -1,0 +1,42 @@
+About the job
+Step into a pivotal role shaping the future of AI-driven testing at enterprise scale. As an AI/GenAI Test Lead, you will configure intelligent Test Case Agents, drive platform adoption, and ensure AI-generated outputs meet the highest quality standards across global customer teams.
+Join EPAM to engineer solutions that matter. From AI to cloud transformation, you'll collaborate with top-tier innovators, gain autonomy to explore your ideas, and grow your skills in a culture built for tech excellence.
+ 
+Responsibilities
+
+Collaborate with Test Leads and QA teams to understand testing workflows and translate requirements into effective agent configurations
+Configure and create Test Case Agents on an enterprise Agentic AI platform tailored to individual team needs and objectives
+Validate AI-generated test cases and outputs to ensure quality, accuracy, and alignment with project standards
+Lead onboarding, adoption, and post-adoption activities, providing hands-on support to customer teams integrating AI testing capabilities
+Develop process documentation, user guides, and knowledge articles to enable seamless platform adoption and team self-sufficiency
+Coordinate with scrum, platform, and support teams to resolve issues, drive enhancements, and represent progress in client-facing discussions
+ 
+Requirements
+
+Proven experience using Selenium with Java for test automation across enterprise-scale QA environments
+Strong QA expertise with hands-on experience in Agile/Scrum methodologies and end-to-end testing workflows
+Deep understanding of SDLC/STLC principles with proven experience in test case creation and validation
+Excellent communication and stakeholder management skills, including the ability to train teams on new tools and lead client-facing demos
+Strong analytical and cross-functional coordination skills to manage issue resolution and platform improvements
+Proficiency with Jira, Confluence, and test management platforms, with exposure to AI, GenAI, or Agentic AI platforms and enterprise adoption activities
+ 
+We offer
+
+Extended Healthcare with Prescription Drugs, Dental and Vision, and Healthcare Spending Account (Company Paid)
+Life and AD&D Insurance (Company Paid)
+Employee Assistance Program (Company Paid)
+Telehealth (Company Paid)
+Short-term Disability (Company Paid)
+Long-Term Disability
+Paid Time Off (including vacation and sick days)
+Registered Retirement Savings Plan (RRSP) with Company match
+Maternity/Parental/Adoption Leave Top-up
+Employee Stock Purchase Program
+Critical Illness Insurance
+Employee Discounts
+Unlimited access to LinkedIn learning solutions
+ 
+This posting includes a base salary range EPAM Canada would reasonably expect to pay the selected candidate. Individual compensation offers within the range are based on a variety of factors, including, but not limited to, experience, credentials, education, training, the demand for the role, skillset, and overall business and local labour market considerations. Most candidates are hired at a salary within the range disclosed. Salary range: CA$140,000-CA$165,000. In addition, the details highlighted in this job posting above are a general description of all other expected benefits and compensation for the position.
+ 
+An artificial intelligence system is software that is developed with one or more techniques that can, for a given set of human-defined objectives, using algorithmic information processing, generate outputs such as content, predictions, recommendations, or decisions with varying levels of autonomy (“AI”). Tasks that humans have traditionally done by thinking and reasoning are increasingly being done by, or with the help of, AI to help create efficiencies.EPAM may use AI during the recruitment process, in connection with collecting or processing your personal data. Some (non-exhaustive) examples of tasks that EPAM may use AI for include conducting initial screening, creating transcripts of interviews, and assessing applications/CVs against defined job description criteria to make suggestions to the individuals evaluating your candidacy.Your personal data and the results of any processing are not shared with AI applications outside of EPAM infrastructure. While EPAM may use AI to help create efficiencies during the recruitment process, EPAM does not use AI to make hiring decisions, which is done by EPAM Talent Acquisition and management.
+ 

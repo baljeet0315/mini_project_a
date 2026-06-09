@@ -1,0 +1,68 @@
+
+The Position 
+
+The Chief Architect, Geointelligence leads the Chief Architect Office that is responsible for developing and executing a comprehensive technology roadmap to drive business growth, analyzing market needs, and overseeing R&D to deliver strategic long-term plans for earth and space observation platforms, data and services. The role includes leading the Technology Strategy group and IP Management function with close collaboration with the New Business team to support business capture, assess markets, and enhance product competitiveness. This role requires a unique blend of technical expertise, business acumen, and leadership skills to drive innovation, collaboration, and growth across the organization.
+
+Key Responsibilities
+
+In cooperation with Business Development, analyze market needs, trends, and competitor activity to identify opportunities for growth and innovation
+Develop and execute a comprehensive product and technology roadmap that aligns with the company's overall business strategy and goals
+Oversees Product Management who builds out the Chief Architect’s vision for product roadmap and specifications
+Develop and implement IP strategy, including establishing technology and competitive landscapes as well as filing strategies.
+Manage business area IP portfolio from invention creation, IP Steering Committee throught to patent filing, prosecution and maintenance, ensuring the protection of current and future technology development
+Provide guidance on non-standard IP terms for customer contracts and IP rights assertion issues with customers and competitors.
+Manage development, security, and operations (DevSecOps) for software development lifecycles throughout business area programs and products
+Participate in capture and proposal phases to develop conceptual solutions and assess their feasibility
+Lead the development of deliverable system technical baselines for bids, focusing on maximizing common elements and minimizing custom development
+Provide direction to Product Management to decompose deliverable system-level capabilities into common element performance requirements and technical baseline, and configuration control common element technical baselines
+Provide direction to Product Management to collect, schedule, establish funding for, and insert product improvements ahead of customer need
+Oversee R&D efforts to ensure the development of innovative, high-quality products that meet customer needs and stay ahead of the competition
+Oversee the creation of business cases for new common element early research and development to TRL6, including make/buy decisions
+Hand off the as-bid technical baseline to newly awarded program team, providing introductions to customers and ensuring a smooth transition
+Collaborate with Customer Program/Product Managers to ensure alignment with customer needs and expectations
+Acts as main internal customer for MDA Products., with decision rights over whether a new variant of a product is acceptable
+Supports the Program Manager in managing customer expectations and negotiating mutually beneficial solutions that meet product requirements and customer needs
+Assists the Program Manager in maintaining product integrity by ensuring all changes are formally approved by the Product Manager and Chief Architect office, guaranteeing that only authorized modifications are made to our products
+Offer technical guidance and mentorship to design teams, especially product development teams
+Foster open communication and collaboration among teams
+Establish a clear line of technical authority
+Provide exposure to senior management to build credibility and visibility for team members
+Develop and maintain technical expertise in program-specific areas
+
+Leadership And Management
+
+Manage all employees within the function, including planning, staffing, budgeting, managing expense priorities, and recommending and implementing changes to methods
+Create new technology baselines aligned with MDA Space corporate policies, ensuring that the business area is always operating in a compliant and responsible manner
+Assess external environmental factors that impact the organization, using independent judgment and risk analysis to make decisions that minimize risk and maximize opportunity
+Define and implement a long-term plan for the key roadmap strategy to expand the business area, identifying new opportunities and optimizing existing ones
+Provide direction on policy to managers and contributors or department leads, ensuring that all employees understand the company's vision, mission, and objectives
+
+Key Competencies
+
+Communication: Possess a high level of negotiating, analytical, and decision-making skills, with the ability to communicate complex technical and business concepts to both technical and non-technical stakeholders
+Leadership: Strong leadership skills, with the ability to provide direction to management and contributor levels on critical projects and initiatives, and to motivate and inspire teams to achieve their best
+Analytical Thinking: Ability to analyze complex situations, identify key issues, and develop effective solutions, using a combination of technical, business, and interpersonal skills
+Business Intelligence: Gathering and analyzing market data and intelligence to inform business decisions, identify opportunities, and mitigate risks, using tools such as market research, competitive analysis, and financial modeling
+Market Awareness: Staying informed about industry trends, competitor activity, and emerging technologies, to identify opportunities and inform business decisions, using sources such as industry reports, conferences, and social media
+Collaboration: Ability to work effectively with cross-functional teams, including marketing, engineering, product development, and business development, to ensure that all stakeholders are aligned and working towards common goals
+Innovation: Ability to think creatively and develop innovative solutions to complex problems, using a combination of technical, business, and interpersonal skills
+
+Required Work Experience And Skills
+
+15+ years of related management experience, with relevant experience in engineering and leading teams
+Proven track record of success in developing and executing product roadmaps, leading R&D efforts, and driving business growth
+Strong technical skills, with experience in software development, engineering, or a related field
+Experience with agile development methodologies, such as Scrum or Kanban
+Experience with product development lifecycles
+Experience with commercial data and services business models, such as subscription services
+Experience with government data and services programs
+Experience with data analytics and business intelligence tools, such as Power BI
+Experience with intellectual property management, including IP portfolio development and management.
+Strong business acumen, with experience in financial planning, budgeting, and forecasting
+Excellent communication and interpersonal skills, with the ability to work effectively with technical and non-technical stakeholders
+
+Education And License Requirements
+
+Bachelor's degree in engineering or a comparable Science degree, such as Computer Science, Electrical Engineering, or Mechanical Engineering
+Master's degree or Ph.D. in a related field, such as Business Administration, Engineering Management, or Computer Science, is an asset
+Relevant certifications, such as PMP, Scrum Master, or TOGAF, are an asset

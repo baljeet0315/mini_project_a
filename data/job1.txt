@@ -1,0 +1,10 @@
+We're hiring! Senior Backend Engineer at CloudNest Technologies.
+
+Location: Remote (US time zones preferred). About the role - you'll be
+building scalable APIs and working closely with our platform team.
+Comp is competitive, somewhere in the 130k-160k range depending on
+experience. We need someone strong in Python and Go, plus solid
+experience with PostgreSQL and AWS. Kubernetes is a big plus.
+
+5+ years experience required. This is a full-time permanent position.
+Apply soon!
