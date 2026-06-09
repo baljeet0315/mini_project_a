@@ -3,8 +3,8 @@ from typing import List, Optional, Literal
 
 class JobPosting(BaseModel):
     title: str
-    company: str
-    location: str
+    company: Optional[str] = None
+    location: Optional[str] = None
     employment_type: Optional[Literal["full-time", "part-time", "contract", "internship"]] = None
     #employment_type: Optional[str] = None   # e.g. "full-time"
     salary_min: Optional[int] = None         # 130000

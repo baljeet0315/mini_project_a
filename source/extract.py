@@ -6,7 +6,7 @@ client = anthropic.Anthropic()     # SDK auto-reads the key from env
 
 INSTRUCTIONS = """You are a data extraction tool. Extract fields from the \
 job posting and return ONLY valid JSON — no markdown, no code fences, no \
-extra text.
+extra text. - If a field is NOT stated in the text, return null. NEVER invent, guess, or infer a value that isn't there.
 
 JSON structure:
 {
