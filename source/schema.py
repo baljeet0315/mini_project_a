@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, field_validator
 from typing import List, Optional, Literal
 
 class JobPosting(BaseModel):
@@ -12,3 +12,9 @@ class JobPosting(BaseModel):
     remote: bool
     skills: List[str]
     experience_years: Optional[int] = None   # 5
+    @field_validator("employment_type", mode="before")
+    @classmethod
+    def normalize_employment_type(cls, v):
+        if isinstance(v, str):
+            return v.lower().strip()
+        return v

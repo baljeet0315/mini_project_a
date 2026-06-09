@@ -13,7 +13,7 @@ JSON structure:
   "title": string,
   "company": string,
   "location": string,
-  "employment_type": string or null,
+  "employment_type": one of ["full-time", "part-time", "contract", "internship"] or null,
   "salary_min": integer or null,
   "salary_max": integer or null,
   "remote": boolean,
@@ -24,6 +24,7 @@ JSON structure:
 Rules:
 - Convert salaries like "130k" to integers (130000).
 - Infer remote as true/false from the text.
+- employment_type MUST be exactly one of: full-time, part-time, contract, internship (lowercase). Use null if unclear.
 - Use null for anything not stated."""
 
 
